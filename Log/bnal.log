@@ -1,0 +1,112 @@
+2020-08-08 16:53:25,148 INFO [homePage.py(close_update_btn:16)] - 首页关闭更新按钮
+2020-08-08 16:53:25,149 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:25,151 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/img_close')
+2020-08-08 16:53:25,756 INFO [homePage.py(click_my_btn:26)] - 首页点击我
+2020-08-08 16:53:25,771 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:25,788 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tab_me')
+2020-08-08 16:53:26,566 INFO [signPage.py(click_exits_account:14)] - 注册页面点击已有账号去登陆
+2020-08-08 16:53:26,567 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:26,567 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/textView1')
+2020-08-08 16:53:28,113 INFO [loginPage.py(login:25)] - 登录用户名:13488834010 密码:159357li
+2020-08-08 16:53:28,114 INFO [base.py(send_ele:56)] - 输入操作，输入文本:13488834010
+2020-08-08 16:53:28,114 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2020-08-08 16:53:30,429 INFO [base.py(send_ele:56)] - 输入操作，输入文本:159357li
+2020-08-08 16:53:30,437 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2020-08-08 16:53:31,591 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:31,591 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_button')
+2020-08-08 16:53:32,128 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2020-08-08 16:53:33,391 INFO [personPage.py(get_user_name:15)] - 获取用户名:mlili
+2020-08-08 16:53:33,392 INFO [personPage.py(click_setting_btn:21)] - 个人中心页面点击设置按钮
+2020-08-08 16:53:33,392 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:33,392 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2020-08-08 16:53:33,498 INFO [settingPage.py(logout:18)] - 退出操作
+2020-08-08 16:53:35,013 INFO [base.py(swipe_app:81)] - 向上滑动页面
+2020-08-08 16:53:36,233 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:36,234 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/setting_logout')
+2020-08-08 16:53:36,342 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:36,342 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2020-08-08 16:53:37,607 INFO [homePage.py(click_my_btn:26)] - 首页点击我
+2020-08-08 16:53:37,607 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:37,608 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tab_me')
+2020-08-08 16:53:38,494 INFO [signPage.py(click_exits_account:14)] - 注册页面点击已有账号去登陆
+2020-08-08 16:53:38,494 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:38,495 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/textView1')
+2020-08-08 16:53:39,782 INFO [loginPage.py(login:25)] - 登录用户名: 13488834010 密码:159357li
+2020-08-08 16:53:39,782 INFO [base.py(send_ele:56)] - 输入操作，输入文本: 13488834010
+2020-08-08 16:53:39,782 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2020-08-08 16:53:41,492 INFO [base.py(send_ele:56)] - 输入操作，输入文本:159357li
+2020-08-08 16:53:41,492 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2020-08-08 16:53:42,608 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:42,608 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_button')
+2020-08-08 16:53:43,151 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2020-08-08 16:53:44,295 INFO [personPage.py(get_user_name:15)] - 获取用户名:mlili
+2020-08-08 16:53:44,299 INFO [base.py(screenshot:104)] - 截图操作
+2020-08-08 16:53:44,722 INFO [personPage.py(click_setting_btn:21)] - 个人中心页面点击设置按钮
+2020-08-08 16:53:44,723 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:44,723 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2020-08-08 16:53:44,826 INFO [settingPage.py(logout:18)] - 退出操作
+2020-08-08 16:53:46,350 INFO [base.py(swipe_app:81)] - 向上滑动页面
+2020-08-08 16:53:47,564 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:47,564 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/setting_logout')
+2020-08-08 16:53:47,710 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:47,710 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2020-08-08 16:53:48,715 INFO [homePage.py(click_my_btn:26)] - 首页点击我
+2020-08-08 16:53:48,716 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:48,718 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tab_me')
+2020-08-08 16:53:50,126 INFO [signPage.py(click_exits_account:14)] - 注册页面点击已有账号去登陆
+2020-08-08 16:53:50,127 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:50,127 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/textView1')
+2020-08-08 16:53:51,531 INFO [loginPage.py(login:25)] - 登录用户名:13488834010  密码:159357li
+2020-08-08 16:53:51,532 INFO [base.py(send_ele:56)] - 输入操作，输入文本:13488834010 
+2020-08-08 16:53:51,532 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2020-08-08 16:53:53,225 INFO [base.py(send_ele:56)] - 输入操作，输入文本:159357li
+2020-08-08 16:53:53,226 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2020-08-08 16:53:54,357 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:54,357 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_button')
+2020-08-08 16:53:54,893 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tv_user_nikename')
+2020-08-08 16:53:56,127 INFO [personPage.py(get_user_name:15)] - 获取用户名:mlili
+2020-08-08 16:53:56,129 INFO [personPage.py(click_setting_btn:21)] - 个人中心页面点击设置按钮
+2020-08-08 16:53:56,131 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:56,131 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2020-08-08 16:53:56,242 INFO [settingPage.py(logout:18)] - 退出操作
+2020-08-08 16:53:57,754 INFO [base.py(swipe_app:81)] - 向上滑动页面
+2020-08-08 16:53:58,986 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:58,986 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/setting_logout')
+2020-08-08 16:53:59,154 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:53:59,154 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymdialog_right_button')
+2020-08-08 16:54:00,163 INFO [homePage.py(click_my_btn:26)] - 首页点击我
+2020-08-08 16:54:00,164 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:00,164 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tab_me')
+2020-08-08 16:54:00,874 INFO [signPage.py(click_exits_account:14)] - 注册页面点击已有账号去登陆
+2020-08-08 16:54:00,875 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:00,875 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/textView1')
+2020-08-08 16:54:01,927 INFO [loginPage.py(login:25)] - 登录用户名:1348883 密码:159357li
+2020-08-08 16:54:01,927 INFO [base.py(send_ele:56)] - 输入操作，输入文本:1348883
+2020-08-08 16:54:01,928 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2020-08-08 16:54:04,325 INFO [base.py(send_ele:56)] - 输入操作，输入文本:159357li
+2020-08-08 16:54:04,326 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2020-08-08 16:54:05,458 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:05,459 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_button')
+2020-08-08 16:54:05,992 INFO [base.py(search_ele:22)] - 定位单个元素:('xpath', "//*[contains(@text,'不存在')]")
+2020-08-08 16:54:06,911 INFO [base.py(get_app_toast:99)] - 获取的toast消息:此用户不存在
+2020-08-08 16:54:06,912 INFO [loginPage.py(close_login_page:14)] - 关闭登陆页面
+2020-08-08 16:54:06,912 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:06,912 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
+2020-08-08 16:54:07,036 INFO [homePage.py(click_my_btn:26)] - 首页点击我
+2020-08-08 16:54:07,037 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:07,037 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/tab_me')
+2020-08-08 16:54:08,276 INFO [signPage.py(click_exits_account:14)] - 注册页面点击已有账号去登陆
+2020-08-08 16:54:08,277 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:08,279 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/textView1')
+2020-08-08 16:54:09,527 INFO [loginPage.py(login:25)] - 登录用户名:13488834010 密码:159357
+2020-08-08 16:54:09,527 INFO [base.py(send_ele:56)] - 输入操作，输入文本:13488834010
+2020-08-08 16:54:09,527 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_account_textview')
+2020-08-08 16:54:11,718 INFO [base.py(send_ele:56)] - 输入操作，输入文本:159357
+2020-08-08 16:54:11,718 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_password_textview')
+2020-08-08 16:54:12,768 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:12,768 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/logon_button')
+2020-08-08 16:54:13,313 INFO [base.py(search_ele:22)] - 定位单个元素:('xpath', "//*[contains(@text,'错误')]")
+2020-08-08 16:54:14,039 INFO [base.py(get_app_toast:99)] - 获取的toast消息:登录密码错误
+2020-08-08 16:54:14,040 INFO [loginPage.py(close_login_page:14)] - 关闭登陆页面
+2020-08-08 16:54:14,040 INFO [base.py(click_ele:44)] - 点击元素
+2020-08-08 16:54:14,040 INFO [base.py(search_ele:22)] - 定位单个元素:('id', 'com.yunmall.lc:id/ymtitlebar_left_btn_image')
